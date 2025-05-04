@@ -24,10 +24,11 @@ This project is built to assist job hunters in writing cold emails to recruiters
 3. Create a .env file with your API key:
    ```bash
    OPENAI_API_KEY=your_openai_key
-PS: You can get your own API key from https://console.groq.com
 5. Run the app:
    ```bash
    streamlit run app.py
+
+PS: You can get your own API key from https://console.groq.com
 
 ✉️ Outcome
 The tool generates a short, personalized, and professional email you can send to a recruiter for better visibility.

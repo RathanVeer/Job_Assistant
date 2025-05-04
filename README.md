@@ -30,7 +30,7 @@ This project is built to assist job hunters in writing cold emails to recruiters
 
 PS: You can get your own API key from https://console.groq.com
 
-✉️ Outcome
+📧 Outcome
 The tool generates a short, personalized, and professional email you can send to a recruiter for better visibility.
 
 Feel free to contribute or suggest improvements!

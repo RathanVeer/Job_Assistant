@@ -94,3 +94,22 @@ if uploaded_file and jd_link:
         ans = "\n".join(updated_output)
 
         st.code(ans, language='markdown')
+
+        st.markdown("""
+        <style>
+        .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            color: #555;
+            background-color: #f1f1f1;
+        }
+        </style>
+        <div class="footer">
+            Made with ❤️ by Rathan
+        </div>
+    """, unsafe_allow_html=True)

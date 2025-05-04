@@ -110,6 +110,6 @@ if uploaded_file and jd_link:
         }
         </style>
         <div class="footer">
-            Made with ❤️ by Rathan
+            Made with ❤️ by Rathan Veer
         </div>
     """, unsafe_allow_html=True)

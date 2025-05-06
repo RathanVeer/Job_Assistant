@@ -12,7 +12,7 @@ load_dotenv()
 llm = ChatGroq(
 model="llama3-70b-8192",
 temperature=0,
-groq_api_key = os.getenv("GROQ_API_KEY")
+groq_api_key = "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"
 )
 
 def extract_text_from_pdf(uploaded_file):
